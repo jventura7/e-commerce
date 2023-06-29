@@ -21,7 +21,7 @@ export default function Login() {
         ></input>
       </div>
       <button className="rounded-xl bg-yellow-700 p-6 py-2 tracking-wide text-white transition duration-500 hover:bg-yellow-400">
-        login.
+        login
       </button>
       <p>
         Don't have an account?{' '}
